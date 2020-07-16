@@ -21,6 +21,9 @@ import javax.swing.JTable;
 import javax.swing.JTextArea;
 import javax.swing.table.DefaultTableModel;
 
+/*
+ * 主方法在这里
+ */
 
 public class ClientGui{
 	public static void main(String[] args){
